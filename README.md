@@ -6,7 +6,16 @@
 
 ## Description
 
-_This is a practice website for an island resort. It contains general information about the accommodations, activities, travel arrangments and contact information. This island resort is made up and this website was created to practice programming basics. Please find the live website [here](http://kaila-spraguemcrae.github.io/island-resort)_
+_This is a practice website for an island resort. It contains general information about the accommodations, activities, travel arrangments and contact information. This island resort is made up and this website was created to practice programming basics._ 
+
+## Setup
+### View Online
+_Please find the live website [here](http://kaila-spraguemcrae.github.io/island-resort)_
+
+### View Locally
+
+## Support and Contact Details
+_Please contact me at kaila.sprague@icloud.com_
 
 ## Technologies Used
 
